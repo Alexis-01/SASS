@@ -8,4 +8,19 @@ h1 {
   text-transform: uppercase;
   text-decoration: underline;
 }
+
+h2 {
+  color: green;
+}
+
+header {
+  background-color: red;
+  text-align: center;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+header nav ul li {
+  text-decoration: none;
+}
 /*# sourceMappingURL=estilos.css.map */
